@@ -11,7 +11,7 @@ An advanced batch script that scans system integrity with DISM and SFC commands 
 ---
 
 <details>
-<summary>🇹🇷 Tanıtım (Türkçe)</summary>
+<summary>Tanıtım (Türkçe)</summary>
 
 ### 🧩 Özellikler
 - Yönetici izni kontrolü ve **otomatik yükseltme**
@@ -40,7 +40,7 @@ Bu betik sistem dosyalarında değişiklik yapar. Kullanım tamamen sizin soruml
 ---
 
 <details>
-<summary>🇺🇸 Introduction (English)</summary>
+<summary>Introduction (English)</summary>
 
 ### 🧩 Features
 - Admin rights check and **auto elevation**
