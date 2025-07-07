@@ -3,9 +3,9 @@ Scan & Repair Windows Image
 
 # 🛠️ Scan & Repair Windows Image by Abdullah ERTÜRK
 
-Windows 10 ve 11 sistemlerinde DISM ve SFC komutlarıyla sistem bütünlüğünü tarayan, otomatik olarak onaran ve kullanıcıyı çok dilli (TR/EN) renkli mesajlarla bilgilendiren gelişmiş bir `batch` betiği.
-
+Windows 10 ve 11 sistemlerinde DISM ve SFC komutlarıyla sistem bütünlüğünü tarayan, otomatik olarak onaran ve kullanıcıyı çok dilli (TR/EN) renkli mesajlarla bilgilendiren gelişmiş bir `batch` betiği. 
 An advanced batch script that scans system integrity with DISM and SFC commands on Windows 10 and 11 systems, automatically repairs them, and informs the user with multilingual (TR/EN) colored messages.
+
 ---
 
 <details>
