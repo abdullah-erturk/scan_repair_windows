@@ -5,6 +5,7 @@ Scan & Repair Windows Image
 
 Windows 10 ve 11 sistemlerinde DISM ve SFC komutlarıyla sistem bütünlüğünü tarayan, otomatik olarak onaran ve kullanıcıyı çok dilli (TR/EN) renkli mesajlarla bilgilendiren gelişmiş bir `batch` betiği.
 
+An advanced batch script that scans system integrity with DISM and SFC commands on Windows 10 and 11 systems, automatically repairs them, and informs the user with multilingual (TR/EN) colored messages.
 ---
 
 <details>
@@ -27,7 +28,7 @@ Script çalıştırıldığında sistemin sağlık durumu kontrol edilir. Onarı
 Kullanıcının hiçbir müdahalede bulunmasına gerek yoktur.
 
 ### 💬 Geri Bildirim
-Her türlü öneri, katkı ve hata bildirimi için [GitHub Issues](https://github.com/kullaniciadi/projeadi/issues) sayfasını kullanabilirsiniz.
+Her türlü öneri ve geri bildirim için lütfen GitHub üzerinden katkıda bulunun.
 
 ### ⚠️ Uyarı
 Bu betik sistem dosyalarında değişiklik yapar. Kullanım tamamen sizin sorumluluğunuzdadır. Kritik verilerinizi yedeklemeniz önerilir.
@@ -56,7 +57,7 @@ Just run the script. It will check the health status of your system. If a repair
 No user interaction is required.
 
 ### 💬 Feedback
-For bug reports, feature requests or contributions, please use the [GitHub Issues](https://github.com/kullaniciadi/projeadi/issues) page.
+Please contribute via GitHub for any suggestions or feedback.
 
 ### ⚠️ Disclaimer
 This script makes changes to your system files. Use at your own risk. It is highly recommended to back up your important data before use.
