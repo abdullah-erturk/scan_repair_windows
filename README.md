@@ -23,8 +23,7 @@ An advanced batch script that scans system integrity with DISM and SFC commands 
 - Windows 11 (tüm sürümler)
 
 ### 🚀 Kullanım
-Script çalıştırıldığında sistemin sağlık durumu kontrol edilir. Onarılabilir bir sorun varsa otomatik olarak DISM ve SFC devreye girer.  
-Kullanıcının hiçbir müdahalede bulunmasına gerek yoktur.
+Script çalıştırıldığında sistemin sağlık durumu kontrol edilir. Onarılabilir bir sorun varsa otomatik olarak DISM ve SFC devreye girer. Kullanıcının hiçbir müdahalede bulunmasına gerek yoktur.
 
 ### 💬 Geri Bildirim
 Her türlü öneri ve geri bildirim için lütfen GitHub üzerinden katkıda bulunun.
@@ -52,8 +51,7 @@ Bu betik sistem dosyalarında değişiklik yapar. Kullanım tamamen sizin soruml
 - Windows 11 (all versions)
 
 ### 🚀 Usage
-Just run the script. It will check the health status of your system. If a repairable issue is found, it will automatically trigger DISM and SFC.  
-No user interaction is required.
+Just run the script. It will check the health status of your system. If a repairable issue is found, it will automatically trigger DISM and SFC. No user interaction is required.
 
 ### 💬 Feedback
 Please contribute via GitHub for any suggestions or feedback.
