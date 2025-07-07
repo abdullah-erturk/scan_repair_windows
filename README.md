@@ -1,60 +1,64 @@
 # scan_repair_windows
 Scan & Repair Windows Image
 
-🇹🇷 Tanıtım – Türkçe
-Bu script, Windows işletim sisteminizde DISM ve SFC komutlarını kullanarak sistem dosyalarını otomatik olarak tarar, onarır ve durumu kullanıcıya renkli mesajlarla bildirir.
+# 🛠️ Scan & Repair Windows Image by Abdullah ERTÜRK
 
-🚀 Özellikler:
+Windows 10 ve 11 sistemlerinde DISM ve SFC komutlarıyla sistem bütünlüğünü tarayan, otomatik olarak onaran ve kullanıcıyı çok dilli (TR/EN) renkli mesajlarla bilgilendiren gelişmiş bir `batch` betiği.
 
-Yönetici izni kontrolü ve otomatik yeniden başlatma
+---
 
-DISM CheckHealth, ScanHealth, RestoreHealth desteği
+<details>
+<summary>🇹🇷 Tanıtım (Türkçe)</summary>
 
-sfc /scannow entegrasyonu
+### 🧩 Özellikler
+- Yönetici izni kontrolü ve **otomatik yükseltme**
+- DISM `CheckHealth`, `ScanHealth`, `RestoreHealth` desteği  
+- `sfc /scannow` entegrasyonu  
+- Türkçe ve İngilizce **otomatik dil algılama**
+- Duruma göre **renkli bilgilendirme mesajları**
+- Geçici log dosyalarının otomatik temizliği
 
-Türkçe ve İngilizce otomatik dil algılama
+### 🖥️ Desteklenen Sistemler
+- Windows 10 (1809 ve sonrası)
+- Windows 11 (tüm sürümler)
 
-Duruma göre renkli bilgilendirme mesajları
+### 🚀 Kullanım
+Script çalıştırıldığında sistemin sağlık durumu kontrol edilir. Onarılabilir bir sorun varsa otomatik olarak DISM ve SFC devreye girer.  
+Kullanıcının hiçbir müdahalede bulunmasına gerek yoktur.
 
-Geçici log dosyalarının otomatik temizliği
+### 💬 Geri Bildirim
+Her türlü öneri, katkı ve hata bildirimi için [GitHub Issues](https://github.com/kullaniciadi/projeadi/issues) sayfasını kullanabilirsiniz.
 
-📦 Desteklenen Sistemler:
+### ⚠️ Uyarı
+Bu betik sistem dosyalarında değişiklik yapar. Kullanım tamamen sizin sorumluluğunuzdadır. Kritik verilerinizi yedeklemeniz önerilir.
 
-Windows 10 (1809 ve sonrası)
+</details>
 
-Windows 11 (tüm sürümler)
+---
 
-🧪 Kullanım:
-Script çalıştırıldığında sistemin sağlık durumu kontrol edilir, gerekirse otomatik olarak onarım işlemleri başlatılır. Kullanıcının ekstra bir işlem yapmasına gerek yoktur.
+<details>
+<summary>🇺🇸 Introduction (English)</summary>
 
-🇺🇸 Introduction – English
-This script automatically checks and repairs the Windows system image using DISM and SFC, then informs the user with color-coded messages based on the result.
+### 🧩 Features
+- Admin rights check and **auto elevation**
+- Supports DISM `CheckHealth`, `ScanHealth`, and `RestoreHealth`
+- Includes `sfc /scannow`
+- **Auto language detection** (Turkish / English)
+- Color-coded status messages
+- Cleans up temporary log files after execution
 
-🚀 Features:
+### 🖥️ Supported Systems
+- Windows 10 (1809 or later)
+- Windows 11 (all versions)
 
-Admin rights check and auto elevation
+### 🚀 Usage
+Just run the script. It will check the health status of your system. If a repairable issue is found, it will automatically trigger DISM and SFC.  
+No user interaction is required.
 
-Supports DISM CheckHealth, ScanHealth, and RestoreHealth
+### 💬 Feedback
+For bug reports, feature requests or contributions, please use the [GitHub Issues](https://github.com/kullaniciadi/projeadi/issues) page.
 
-Includes sfc /scannow
+### ⚠️ Disclaimer
+This script makes changes to your system files. Use at your own risk. It is highly recommended to back up your important data before use.
 
-Automatic language detection (Turkish / English)
-
-Color-coded status messages
-
-Automatic cleanup of temporary log files
-
-🧪 Usage:
-Just run the script. It will automatically check system health and, if necessary, start repair operations. No user intervention is required.
-
-📁 Dosya Yapısı / File Structure
-css
-Kopyala
-Düzenle
-ScanRepair.bat     → Ana script dosyası / Main script
-README.md          → Tanıtım belgesi / This description file
-💬 Geri Bildirim / Feedback
-Her türlü hata bildirimi, öneri ya da katkı için lütfen GitHub Issues bölümünü kullanın.
-
-⚠️ Uyarı / Disclaimer
-Bu script sistem dosyalarında değişiklik yapar. Kendi sorumluluğunuzda kullanınız. Kritik verilerinizin yedeğini almanız önerilir.
+</details>
