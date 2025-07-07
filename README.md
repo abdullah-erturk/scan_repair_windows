@@ -1,5 +1,4 @@
-# scan_repair_windows
-Scan & Repair Windows Image
+# Scan & Repair Windows Image
 
 # 🛠️ Scan & Repair Windows Image by Abdullah ERTÜRK
 
